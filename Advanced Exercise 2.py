@@ -24,13 +24,9 @@ c = 7
 
 # TODO: Add 3 to a using +=
 a+=3
-b+=3
-c+=3
 
 # TODO: Multiply b by 2 using *=
-a*=2
 b*=2
-c*=2
 # TODO: Modulo c by 4 using %=
 c%=4
 # TODO: Calculate the square root of (a^2 + b^2 + c^2)
